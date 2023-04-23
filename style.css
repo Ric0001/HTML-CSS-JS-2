@@ -1,0 +1,299 @@
+table{
+  margin: 0 auto ;
+  text-align: center;
+  
+  
+}
+body{
+font-family: arial;
+ 
+}
+td{
+  text-align: center;
+  padding: 10px ;
+  
+  
+}
+.um{
+  color: #003366 ;
+  font-size: 18px ; 
+  font-weight: bold;
+  
+
+}
+.dois{
+  color: #003366 ;
+  font-size: 18px ;
+  font-weight: bold;
+  
+  
+}
+.tres{
+  color: #003366 ;
+  font-size: 18px ;
+  font-weight:bold;
+}
+.quatro{
+  color: #1398BE;
+  font-size: 18px ;
+  font-weight:bold;
+}
+.cinco{
+  color: #DE9800;
+  font-size: 18px ;
+  font-weight:bold;
+  
+  
+}
+.seis{
+  color: #DE9800;
+  font-size: 18px;
+  font-weight:bold;
+}
+.sete{
+  color: #DE9800;
+  font-size: 18px ;
+  font-weight:bold;
+}
+.oito{
+  color: #DE9800;
+  font-size: 18px ;
+  font-weight:bold;
+}
+.nove{
+  color: #DE9800;
+  font-size: 18px ;
+  font-weight:bold;
+}
+.dez{
+  color: #DE9800;
+  font-size: 18px ;
+  font-weight:bold;
+}
+.onze{
+  color: #DE9800;
+  font-size: 18px ;
+  font-weight:bold;
+}
+.doze{
+  color: #DE9800;
+  font-size: 18px ;
+  font-weight:bold;
+}
+.treze{
+  color: #CCCCCC;
+  font-size: 18px ;
+  font-weight:bold;
+}
+.quatorze{
+  color: #CCCCCC;
+  font-size: 18px ;
+  font-weight:bold;
+  
+  
+}
+.quinze{
+  color: #CCCCCC;
+  font-size: 18px ;
+  font-weight:bold;
+}
+.dezesseis{
+  color: #CCCCCC;
+  font-size: 18px ;
+  font-weight:bold;
+}
+.dezessete{
+color: #C91B04 ;
+font-size: 18px;
+font-weight:bold;
+}
+.dezoito{
+  color: #C91B04 ;
+font-size: 18px;
+  font-weight:bold;
+}
+.dezenove{
+  color: #C91B04 ;
+font-size: 18px;
+font-weight:bold;
+}
+.vinte{
+  color: #C91B04 ;
+font-size: 18px;
+  font-weight:bold ;
+}
+.cor{
+  font-size: 14px ;
+text-align: left;
+color: #666666 ;
+  font-weight: bold;
+}
+.cea{
+  font-size: 14px ;
+text-align: left;
+color: #666666 ;
+  font-weight: bold;
+}
+.flu{
+  font-size: 14px ;
+text-align: left;
+color: #666666 ;
+  font-weight: bold;
+}
+.san{
+  font-size: 14px ;
+text-align: left;
+color: #666666 ;
+  font-weight: bold;
+}
+.sao{
+  font-size: 14px ;
+text-align: left;
+color: #666666 ;
+  font-weight: bold;
+}
+.goa{
+  font-size: 14px ;
+text-align: left;
+color: #666666 ;
+  font-weight: bold;
+}
+.bot{
+  font-size: 14px ;
+text-align: left;
+color: #666666 ;
+  font-weight: bold;
+}
+.fla{
+  font-size: 14px ;
+text-align: left;
+color: #666666 ;
+  font-weight: bold;
+}
+.cru{
+  font-size: 14px ;
+text-align: left;
+color: #666666 ;
+  font-weight: bold;
+}
+.gua{
+  font-size: 14px ;
+text-align: left;
+color: #666666 ;
+  font-weight: bold;
+}
+.pal{
+  font-size: 14px ;
+text-align: left;
+color: #666666 ;
+  font-weight: bold;
+}
+.gre{
+  font-size: 14px ;
+text-align: left;
+color: #666666 ;
+  font-weight: bold;
+}
+.ava{
+  font-size: 14px ;
+text-align: left;
+color: #666666 ;
+  font-weight: bold;
+}
+.vit{
+  font-size: 14px ;
+text-align: left;
+color: #666666 ;
+  font-weight: bold;
+}
+.pru{
+  font-size: 14px ;
+text-align: left;
+color: #666666 ;
+  font-weight: bold;
+}
+.ath{
+  font-size: 14px ;
+text-align: left;
+color: #666666 ;
+  font-weight: bold;
+}
+.int{
+  font-size: 14px ;
+text-align: left;
+color: #666666 ;
+  font-weight: bold;
+}
+.atm{
+  font-size: 14px ;
+text-align: left;
+color: #666666 ;
+  font-weight: bold;
+}
+.vas{
+  font-size: 14px ;
+text-align: left;
+color: #666666 ;
+  font-weight: bold;
+}
+.atg{
+font-size: 14px ;
+text-align: left;
+color: #666666 ;
+  font-weight: bold;
+  
+
+
+
+}
+.p{
+  font-size:14px;
+  color:black;
+  font-weight:bold;
+  background-color: #F7F7F7;
+  
+  
+}
+.v{
+  background-color: #F7F7F7;
+  color:#666666 ;
+  font-size: 14px ;
+  
+
+}
+.d{
+  background-color: #F7F7F7;
+  color:#666666;
+  font-size: 14px ;
+  
+}
+.gc{
+  background-color: #F7F7F7;
+  color:#666666;
+  font-size: 14px ;
+  
+  
+}
+.ap{
+background-color: #F7F7F7;
+color:#666666;
+  font-size: 14px ;
+  
+
+}
+.trcor{
+  color:#999999;
+}
+.corr{
+  color:#666666;
+  font-size: 14px ;
+  
+}
+.borda4{
+  border-bottom: 2px solid #CCCCCC;
+  
+}
+.borda16{
+  border-bottom: 2px solid #CCCCCC;
+  
+}
